@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+chatbot/
+Lib/
+Scripts/
+
+# Ignore any environment files
+.env
+*.env
